@@ -13,8 +13,7 @@ I turn ideas into products that scale. 3+ years building web applications that s
 ## What I Build
 **React, Next.js, TypeScript** | Performance optimization | User-focused products
 
-Currently working on: React dashboards that don't suck
-
+Currently working on: Automation flows to save time and eliminate manual work
 ## The Story
 **Business → Self-taught developer → Product builder**
 
